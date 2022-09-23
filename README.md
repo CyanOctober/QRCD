@@ -1,3 +1,3 @@
 # QRCD
-This is the Quick Response Computer Dialet
+This is the Quick Response Computer Dialet /n
 Please note, that if I accept any pull requests, you NEED to help the dialet in one way of another, thank you
