@@ -10,3 +10,4 @@ YETAN = Yet another
 PROF = Programming
 CHI = Child
 WY = Why
+DK = ducc
